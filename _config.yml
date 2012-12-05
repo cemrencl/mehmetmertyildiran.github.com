@@ -19,7 +19,7 @@ rdiscount:
 # ----------------------------------------------------------------------
 
 # github hesap adı (ör. roktas)
-account: mengi
+account: mehmetmertyildiran
 
 # github organizasyonu (ör. 19)
 organization: 19
@@ -27,7 +27,7 @@ organization: 19
 # bu siteyi üreten github deposu (ör. roktas.github.com)
 # dikkat!  depo çoğunlukla <account>.github.com formundadır.  fakat başka
 # bir depo da olabilir.  url parametresi için yazılan açıklamayı okuyun.
-repository: mengi.github.com
+repository: mehmetmertyildiran.github.com
 
 # üretilen sitenin web adresi ne?  ör. "http://roktas.github.com".
 # CNAME kaydımız varsa bu adresi giriyoruz.  dikkat!  bu site
@@ -35,7 +35,7 @@ repository: mengi.github.com
 # örneğin http://roktas.github.com/test olabilir.  fakat bu durumda
 # kurulumdan sonra "master" dalını "gh-pages" dalına birleştirmelisiniz.
 # 	git checkout -b gh-pages
-url: http://mengi.github.com
+url: http://mehmetmertyildiran.github.com
 
 # site görünümüne ilişkin olarak sitede mutlak adres yoluyla herhangi bir
 # sayfadan erişilebilecek ortak "dijital varlıklar"ın (ör. logolar) adresi.
@@ -46,7 +46,7 @@ url: http://mengi.github.com
 # olduğuna göre bu parametre için örnek bir değer:
 #   
 # 	http://roktas.github.com/chrome
-assets: http://mengi.github.com/chrome
+assets: http://mehmetmertyildiran.github.com/chrome
 
 # ----------------------------------------------------------------------
 # site parametreleri
@@ -59,11 +59,11 @@ param:
         # --------------------------------------------------------------
         # unix kullanıcı adı (ör. roktas)
         # dikkat!  unix kullanıcı adı github hesabından farklı olabilir
-        user: mengi
+        user: mehmetmertyildiran
         # tam kullanıcı adı (ör. Recai Oktaş)
-        fullname: Muhammet Enginar
+        fullname: Mehmet Mert Yıldıran
         # email adresi (ör. roktas@bil.omu.edu.tr)
-        email: muhammet.enginar@bil.omu.edu.tr
+        email: mert.yildiran@bil.omu.edu.tr
         # ünvan (ör. Bilgisayar Mühendisliği Öğrencisi)
         title: <a href="http://ondokuz.biz/">19</a> üyesi
         # GnuPG kısa parmak izi (ör. DEADBEEF)
